@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Data Structure">
+      <UniqueIdentifier>{d07e7270-0060-49b3-ba2f-d1c3fa1f9a14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Alg">
+      <UniqueIdentifier>{aca9f0ac-f51e-49b6-9fe2-4a1820c426f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\LeetCode">
+      <UniqueIdentifier>{b4ecd771-7146-4769-8487-2903effba794}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BalancedBinaryTree.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchTree.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="BTree.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicProgram.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="dfs.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="FindOffer.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="GreadyAlgorithm.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="KMP.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Maxfilp.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBlackTree.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="Sort.h">
+      <Filter>头文件\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="union_set.h">
+      <Filter>头文件\Alg</Filter>
+    </ClInclude>
+    <ClInclude Include="LeetCode.h">
+      <Filter>头文件\LeetCode</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
